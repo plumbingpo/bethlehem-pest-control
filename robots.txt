@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bethlehempestcontrolco.com/sitemap.xml
